@@ -1,0 +1,202 @@
+[
+  {
+    "event_id": "evt-1001",
+    "event_type": "PRODUCT_CREATED",
+    "product_id": "p101",
+    "name": "Lululemon Yoga Mat",
+    "category": "fitness",
+    "price": 109.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T08:15:00Z"
+  },
+  {
+    "event_id": "evt-1002",
+    "event_type": "PRODUCT_VIEWED",
+    "product_id": "p101",
+    "name": "Lululemon Yoga Mat",
+    "category": "fitness",
+    "price": 109.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T09:05:00Z"
+  },
+  {
+    "event_id": "evt-1003",
+    "event_type": "PRODUCT_SOLD",
+    "product_id": "p101",
+    "name": "Lululemon Yoga Mat",
+    "category": "fitness",
+    "price": 109.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T19:30:00Z"
+  },
+  {
+    "event_id": "evt-1004",
+    "event_type": "PRODUCT_CREATED",
+    "product_id": "p102",
+    "name": "Hydro Flask Water Bottle",
+    "category": "outdoors",
+    "price": 54.95,
+    "locale": "en-US",
+    "timestamp": "2026-03-19T10:00:00Z"
+  },
+  {
+    "event_id": "evt-1005",
+    "event_type": "PRODUCT_ADDED_TO_CART",
+    "product_id": "p102",
+    "name": "Hydro Flask Water Bottle",
+    "category": "outdoors",
+    "price": 54.95,
+    "locale": "en-US",
+    "timestamp": "2026-03-19T10:45:00Z"
+  },
+  {
+    "event_id": "evt-1006",
+    "event_type": "PRODUCT_SOLD",
+    "product_id": "p102",
+    "name": "Hydro Flask Water Bottle",
+    "category": "outdoors",
+    "price": 54.95,
+    "locale": "en-US",
+    "timestamp": "2026-03-19T11:10:00Z"
+  },
+  {
+    "event_id": "evt-1007",
+    "event_type": "PRODUCT_CREATED",
+    "product_id": "p103",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "electronics",
+    "price": 499.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T12:00:00Z"
+  },
+  {
+    "event_id": "evt-1008",
+    "event_type": "PRODUCT_VIEWED",
+    "product_id": "p103",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "electronics",
+    "price": 499.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T12:20:00Z"
+  },
+  {
+    "event_id": "evt-1009",
+    "event_type": "PRODUCT_ADDED_TO_WISHLIST",
+    "product_id": "p103",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "electronics",
+    "price": 499.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T12:35:00Z"
+  },
+  {
+    "event_id": "evt-1010",
+    "event_type": "PRODUCT_CREATED",
+    "product_id": "p104",
+    "name": "Dyson V15 Detect Vacuum",
+    "category": "home",
+    "price": 949.00,
+    "locale": "en-GB",
+    "timestamp": "2026-03-19T13:00:00Z"
+  },
+  {
+    "event_id": "evt-1011",
+    "event_type": "PRODUCT_VIEWED",
+    "product_id": "p104",
+    "name": "Dyson V15 Detect Vacuum",
+    "category": "home",
+    "price": 949.00,
+    "locale": "en-GB",
+    "timestamp": "2026-03-19T13:25:00Z"
+  },
+  {
+    "event_id": "evt-1012",
+    "event_type": "PRODUCT_SOLD",
+    "product_id": "p104",
+    "name": "Dyson V15 Detect Vacuum",
+    "category": "home",
+    "price": 949.00,
+    "locale": "en-GB",
+    "timestamp": "2026-03-19T14:05:00Z"
+  },
+  {
+    "event_id": "evt-1013",
+    "event_type": "PRODUCT_CREATED",
+    "product_id": "p105",
+    "name": "Nintendo Switch OLED",
+    "category": "gaming",
+    "price": 449.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T15:00:00Z"
+  },
+  {
+    "event_id": "evt-1014",
+    "event_type": "PRODUCT_ADDED_TO_CART",
+    "product_id": "p105",
+    "name": "Nintendo Switch OLED",
+    "category": "gaming",
+    "price": 449.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T15:40:00Z"
+  },
+  {
+    "event_id": "evt-1015",
+    "event_type": "PRODUCT_SOLD",
+    "product_id": "p105",
+    "name": "Nintendo Switch OLED",
+    "category": "gaming",
+    "price": 449.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-19T16:05:00Z"
+  },
+  {
+    "event_id": "evt-1016",
+    "event_type": "PRODUCT_CREATED",
+    "product_id": "p106",
+    "name": "Allbirds Tree Runners",
+    "category": "fashion",
+    "price": 135.00,
+    "locale": "en-US",
+    "timestamp": "2026-03-19T16:20:00Z"
+  },
+  {
+    "event_id": "evt-1017",
+    "event_type": "PRODUCT_VIEWED",
+    "product_id": "p106",
+    "name": "Allbirds Tree Runners",
+    "category": "fashion",
+    "price": 135.00,
+    "locale": "en-US",
+    "timestamp": "2026-03-19T16:45:00Z"
+  },
+  {
+    "event_id": "evt-1018",
+    "event_type": "PRODUCT_RETURNED",
+    "product_id": "p102",
+    "name": "Hydro Flask Water Bottle",
+    "category": "outdoors",
+    "price": 54.95,
+    "locale": "en-US",
+    "timestamp": "2026-03-20T09:10:00Z"
+  },
+  {
+    "event_id": "evt-1019",
+    "event_type": "PRODUCT_RESTOCKED",
+    "product_id": "p101",
+    "name": "Lululemon Yoga Mat",
+    "category": "fitness",
+    "price": 109.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-20T10:00:00Z"
+  },
+  {
+    "event_id": "evt-1020",
+    "event_type": "PRODUCT_DISCOUNTED",
+    "product_id": "p103",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "electronics",
+    "price": 449.99,
+    "locale": "en-CA",
+    "timestamp": "2026-03-20T11:30:00Z"
+  }
+]

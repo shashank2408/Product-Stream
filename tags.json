@@ -1,0 +1,32 @@
+{
+  "p101": {
+    "brand": "Lululemon",
+    "labels": ["premium", "wellness", "studio", "eco-friendly"],
+    "synonyms": ["yoga mat", "exercise mat", "fitness mat"]
+  },
+  "p102": {
+    "brand": "Hydro Flask",
+    "labels": ["reusable", "hydration", "outdoor", "travel"],
+    "synonyms": ["water bottle", "insulated bottle", "flask"]
+  },
+  "p103": {
+    "brand": "Sony",
+    "labels": ["wireless", "noise-cancelling", "premium", "audio"],
+    "synonyms": ["headphones", "bluetooth headphones", "over-ear headphones"]
+  },
+  "p104": {
+    "brand": "Dyson",
+    "labels": ["smart-home", "premium", "cleaning", "cordless"],
+    "synonyms": ["vacuum", "stick vacuum", "cordless vacuum"]
+  },
+  "p105": {
+    "brand": "Nintendo",
+    "labels": ["console", "portable", "gaming", "family"],
+    "synonyms": ["game console", "switch console", "handheld console"]
+  },
+  "p106": {
+    "brand": "Allbirds",
+    "labels": ["sustainable", "casual", "comfort", "everyday"],
+    "synonyms": ["running shoes", "sneakers", "casual shoes"]
+  }
+}
